@@ -1,0 +1,25 @@
+{
+    "name": "mngez/fbsdk1",
+    "description": " SDK for PHP",
+    "type": "library",
+    "homepage": "https://github.com/facebook/facebook-php-sdk-v4",
+    "license": "Facebook Platform",
+    "authors": [
+        {
+            "name": "",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Mngez\\fbsdk1\\": "src/"
+        }
+    }
+}
